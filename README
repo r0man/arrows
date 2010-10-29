@@ -10,7 +10,7 @@ See http://www.cse.chalmers.se/~rjmh/Papers/arrows.pdf for an explanation of arr
 
 Add:
 
-[net.intensivesystems/arrows "1.2.0"]
+[arrows "1.2.0"]
 
 to project.clj
 
@@ -19,4 +19,3 @@ to project.clj
 Copyright (C) 2010 Jim Duey
 
 Distributed under the BSD License.
-
